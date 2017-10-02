@@ -1,0 +1,10 @@
+Objective:
+Perform the earlier operation using Java program.
+The program should be able to check for the presence of 'customer' table.
+In case the table exists, it must be dropped and recreated.
+
+Solution:
+Java code is added in the link
+
+Output:
+ScreenShot of the output is attached
